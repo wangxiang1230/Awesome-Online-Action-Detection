@@ -15,6 +15,7 @@
 - <span id = "2105">[IDN-Extend]</span> [**Learning to Discriminate Information for Online Action Detection: Analysis and Application**](https://arxiv.org/abs/2109.03393) - Sumin Lee et al, `ArXiv 2021`.
 - <span id = "2106">[IED]</span> [**Information Elevation Network for Fast Online Action Detection**](https://arxiv.org/abs/2109.13572) - Sunah Min et al, `ArXiv 2021`.
 - <span id = "2107">[empirical study]</span> [**An empirical study on temporal modeling for online action detection**](https://arxiv.org/abs/2001.07501) - Wen Wang et al, `Complex & Intelligent Systems 2021`.
+- <span id = "2108"></span> [**Exploring Temporal Context and Human Movement Dynamics for Online Action Detection in Videos**](http://cvsp.cs.ntua.gr/publications/confr/Vasileiou_EUSIPCO21_Enhancing_temporal_context_for_online_action_detection_in_videos_Paper.pdf) - Vasiliki I. Vasileiou et al, `EUSIPCO 2021`.
 
 ### <span id = "oad-2020"> 2020 </span>
 - <span id = "2001">[IDN]</span> [**Learning to Discriminate Information for Online Action Detection**](https://openaccess.thecvf.com/content_CVPR_2020/papers/Eun_Learning_to_Discriminate_Information_for_Online_Action_Detection_CVPR_2020_paper.pdf) - Hyunjun Eun et al, `CVPR 2020`.[[code]](https://github.com/hjeun/idu)
