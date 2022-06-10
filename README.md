@@ -4,6 +4,7 @@
 - <span id = "2200">[Survey-2022]</span> [**Online human action detection and anticipation in videos: A survey**](https://doi.org/10.1016/j.neucom.2022.03.069) - Xuejiao Hu et al, `Neurocomputing 2022`.
 
 ### <span id = "oad-2022"> 2022 </span>
+- <span id = "2204">[GateHUB]</span> [**GateHUB: Gated History Unit with Background Suppression for Online Action Detection**](https://arxiv.org/abs/2206.04668) - Junwen Chen et al, `CVPR 2022`.
 - <span id = "2201">[Colar]</span> [**Colar: Effective and Efficient Online Action Detection by Consulting Exemplars**](http://arxiv.org/abs/2204.01680) - Le Yang et al, `CVPR 2022`.[[code]](https://github.com/VividLe/Online-Action-Detection)
 - <span id = "2202">[PPKD]</span> [**Progressive Privileged Knowledge Distillation for Online Action Detection**](https://arxiv.org/abs/2011.09158) - Peisen Zhao et al, `PR 2022`.
 - <span id = "2203">[Continual Transformers]</span> [**Continual Transformers: Redundancy-Free Attention for Online Inference**](https://arxiv.org/abs/2201.06268) - Lukas Hedegaard et al, `ArXiv 2022`.[[code]](https://github.com/lukashedegaard/continual-transformers)
@@ -17,7 +18,7 @@
 - <span id = "2106">[IED]</span> [**Information Elevation Network for Fast Online Action Detection**](https://arxiv.org/abs/2109.13572) - Sunah Min et al, `ArXiv 2021`.
 - <span id = "2107">[empirical study]</span> [**An empirical study on temporal modeling for online action detection**](https://arxiv.org/abs/2001.07501) - Wen Wang et al, `Complex & Intelligent Systems 2021`.
 - <span id = "2108"></span> [**Exploring Temporal Context and Human Movement Dynamics for Online Action Detection in Videos**](http://cvsp.cs.ntua.gr/publications/confr/Vasileiou_EUSIPCO21_Enhancing_temporal_context_for_online_action_detection_in_videos_Paper.pdf) - Vasiliki I. Vasileiou et al, `EUSIPCO 2021`.
-- <span id = "2109">[FATSnet]</span> [**Temporally Smooth Online Action Detection using Cycle-consistent Future Anticipation**](https://arxiv.org/abs/2104.08030) - Young Hwi Kim et al, `PR 2021`.
+- <span id = "2109">[FATSnet]</span> [**Temporally Smooth Online Action Detection using Cycle-consistent Future Anticipation**](https://arxiv.org/abs/2104.08030) - Young Hwi Kim et al, `PR 2021`. [[code]](https://github.com/YHKimGithub/FATSnet)
 
 ### <span id = "oad-2020"> 2020 </span>
 - <span id = "2001">[IDN]</span> [**Learning to Discriminate Information for Online Action Detection**](https://openaccess.thecvf.com/content_CVPR_2020/papers/Eun_Learning_to_Discriminate_Information_for_Online_Action_Detection_CVPR_2020_paper.pdf) - Hyunjun Eun et al, `CVPR 2020`.[[code]](https://github.com/hjeun/idu)
