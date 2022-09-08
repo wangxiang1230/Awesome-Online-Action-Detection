@@ -8,6 +8,7 @@
 - <span id = "2201">[Colar]</span> [**Colar: Effective and Efficient Online Action Detection by Consulting Exemplars**](http://arxiv.org/abs/2204.01680) - Le Yang et al, `CVPR 2022`.[[code]](https://github.com/VividLe/Online-Action-Detection)
 - <span id = "2202">[PPKD]</span> [**Progressive Privileged Knowledge Distillation for Online Action Detection**](https://arxiv.org/abs/2011.09158) - Peisen Zhao et al, `PR 2022`.
 - <span id = "2203">[Continual Transformers]</span> [**Continual Transformers: Redundancy-Free Attention for Online Inference**](https://arxiv.org/abs/2201.06268) - Lukas Hedegaard et al, `ArXiv 2022`.[[code]](https://github.com/lukashedegaard/continual-transformers)
+- <span id = "2204">[CWC-Trans]</span> [**A Circular Window-based Cascade Transformer for Online Action Detection**](https://arxiv.org/abs/2208.14209) - Shuqiang Cao et al, `ArXiv 2022`.
 
 ### <span id = "oad-2021"> 2021 </span>
 - <span id = "2101">[OadTR]</span> [**OadTR: Online Action Detection with Transformers**](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_OadTR_Online_Action_Detection_With_Transformers_ICCV_2021_paper.pdf) - Xiang Wang et al, `ICCV 2021`.[[code]](https://github.com/wangxiang1230/OadTR)
