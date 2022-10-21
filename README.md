@@ -5,6 +5,7 @@
 - <span id = "2200">[Survey-2022]</span> [**Online human action detection and anticipation in videos: A survey**](https://doi.org/10.1016/j.neucom.2022.03.069) - Xuejiao Hu et al, `Neurocomputing 2022`.
 
 ### <span id = "oad-2022"> 2022 </span>
+- <span id = "2207">[Uncertainty-Based]</span> [**Uncertainty-Based Spatial-Temporal Attention for Online Action Detection**](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640068.pdf) - Hongji Guo et al, `ECCV 2022`.
 - <span id = "2206">[TeSTra]</span> [**Real-time Online Video Detection with Temporal Smoothing Transformers**](https://arxiv.org/abs/2209.09236) - Yue Zhao et al, `ECCV 2022`.[[code]](https://github.com/zhaoyue-zephyrus/TeSTra)
 - <span id = "2205">[CWC-Trans]</span> [**A Circular Window-based Cascade Transformer for Online Action Detection**](https://arxiv.org/abs/2208.14209) - Shuqiang Cao et al, `ArXiv 2022`.
 - <span id = "2204">[GateHUB]</span> [**GateHUB: Gated History Unit with Background Suppression for Online Action Detection**](https://arxiv.org/abs/2206.04668) - Junwen Chen et al, `CVPR 2022`.
