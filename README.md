@@ -5,6 +5,8 @@
 - <span id = "2200">[Survey-2022]</span> [**Online human action detection and anticipation in videos: A survey**](https://doi.org/10.1016/j.neucom.2022.03.069) - Xuejiao Hu et al, `Neurocomputing 2022`.
 
 ### <span id = "oad-2022"> 2022 </span>
+- <span id = "2209">[SCOAD]</span> [**SCOAD: Single-frame Click Supervision for Online Action Detection**](https://openaccess.thecvf.com/content/ACCV2022/papers/Ye_SCOAD_Single-frame_Click_Supervision_for_Online_Action_Detection_ACCV_2022_paper.pdf) - Na Ye et al, `ACCV 2022`.[[code]](https://github.com/zstarN70/SCOAD)
+- <span id = "2208">[TwinLSTM]</span> [**TwinLSTM: Two-channel LSTM Network for Online Action Detection**](https://www.computer.org/csdl/proceedings-article/icpr/2022/09956717/1IHoVAhk2Ag) - Yunfei Han et al, `ICPR 2022`.
 - <span id = "2207">[Uncertainty-Based]</span> [**Uncertainty-Based Spatial-Temporal Attention for Online Action Detection**](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640068.pdf) - Hongji Guo et al, `ECCV 2022`.
 - <span id = "2206">[TeSTra]</span> [**Real-time Online Video Detection with Temporal Smoothing Transformers**](https://arxiv.org/abs/2209.09236) - Yue Zhao et al, `ECCV 2022`.[[code]](https://github.com/zhaoyue-zephyrus/TeSTra)
 - <span id = "2205">[CWC-Trans]</span> [**A Circular Window-based Cascade Transformer for Online Action Detection**](https://arxiv.org/abs/2208.14209) - Shuqiang Cao et al, `ArXiv 2022`.
