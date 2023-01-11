@@ -11,7 +11,7 @@
 - <span id = "2206">[TeSTra]</span> [**Real-time Online Video Detection with Temporal Smoothing Transformers**](https://arxiv.org/abs/2209.09236) - Yue Zhao et al, `ECCV 2022`.[[code]](https://github.com/zhaoyue-zephyrus/TeSTra)
 - <span id = "2205">[CWC-Trans]</span> [**A Circular Window-based Cascade Transformer for Online Action Detection**](https://arxiv.org/abs/2208.14209) - Shuqiang Cao et al, `ArXiv 2022`.
 - <span id = "2204">[GateHUB]</span> [**GateHUB: Gated History Unit with Background Suppression for Online Action Detection**](https://arxiv.org/abs/2206.04668) - Junwen Chen et al, `CVPR 2022`.
-- <span id = "2203">[Colar]</span> [**Colar: Effective and Efficient Online Action Detection by Consulting Exemplars**](http://arxiv.org/abs/2204.01680) - Le Yang et al, `CVPR 2022`.[[code]](https://github.com/VividLe/Online-Action-Detection)
+- <span id = "2203">[Colar]</span> [**Colar: Effective and Efficient Online Action Detection by Consulting Exemplars**](https://arxiv.org/abs/2203.01057v2) - Le Yang et al, `CVPR 2022`.[[code]](https://github.com/VividLe/Online-Action-Detection)
 - <span id = "2202">[PPKD]</span> [**Progressive Privileged Knowledge Distillation for Online Action Detection**](https://arxiv.org/abs/2011.09158) - Peisen Zhao et al, `PR 2022`.
 - <span id = "2201">[Continual Transformers]</span> [**Continual Transformers: Redundancy-Free Attention for Online Inference**](https://arxiv.org/abs/2201.06268) - Lukas Hedegaard et al, `ArXiv 2022`.[[code]](https://github.com/lukashedegaard/continual-transformers)
 
