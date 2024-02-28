@@ -3,14 +3,17 @@
 
 ### <span id = "oad-survey"> Survey </span>
 - <span id = "2200">[Survey-2022]</span> [**Online human action detection and anticipation in videos: A survey**](https://doi.org/10.1016/j.neucom.2022.03.069) - Xuejiao Hu et al, `Neurocomputing 2022`.
-  
+
+### <span id = "oad-2023"> 2024 </span>
+- <span id = "2301">[JOADAA]</span> [**JOADAA: joint online action detection and action anticipation**](https://openaccess.thecvf.com/content/WACV2024/papers/Guermal_JOADAA_Joint_Online_Action_Detection_and_Action_Anticipation_WACV_2024_paper.pdf) - Mohammed Guermal et al, `WACV 2024`.
+
 ### <span id = "oad-2023"> 2023 </span>
 - <span id = "2305">[MiniROAD]</span> [**MiniROAD: Minimal RNN Framework for Online Action Detection**](https://openaccess.thecvf.com/content/ICCV2023/papers/An_MiniROAD_Minimal_RNN_Framework_for_Online_Action_Detection_ICCV_2023_paper.pdf) - Joungbin An et al, `ICCV 2023`. [[code]](https://github.com/jbistanbul/MiniROAD)
 - <span id = "2305">[E2E-LOAD]</span> [**E2E-LOAD: End-to-End Long-form Online Action Detection**](https://arxiv.org/abs/2306.07703) - Shuqiang Cao et al, `ICCV 2023`. [[code]](https://github.com/sqiangcao99/E2E-LOAD)
 - <span id = "2304">[MAT]</span> [**Memory-and-Anticipation Transformer for Online Action Understanding**](https://arxiv.org/abs/2308.07893) - Jiahao Wang et al, `ICCV 2023`. [[code]](https://github.com/Echo0125/Memory-and-Anticipation-Transformer)
 - <span id = "2303">[Contrastive-based]</span> [**Online Action Detection with Learning Future Representations by Contrastive Learning**](https://ieeexplore.ieee.org/abstract/document/10220027) - Haitao Leng et al, `ICME 2023`.
 - <span id = "2302">[HCM]</span> [**HCM: Online Action Detection With Hard Video Clip Mining**](https://ieeexplore.ieee.org/abstract/document/10246422) - Siyu Liu et al, `TMM 2023`.
-- <span id = "2301">[JOADAA]</span> [**JOADAA: joint online action detection and action anticipation**](https://arxiv.org/abs/2309.06130) - Mohammed Guermal et al, `ArXiv 2023`.
+- <span id = "2301">[DFAformer]</span> [**DFAformer: A Dual Filtering Auxiliary Transformer for Efficient Online Action Detection in Streaming Videos**](https://link.springer.com/chapter/10.1007/978-981-99-8537-1_11) - Shicheng Jing et al, `PRCV 2023`.
   
 ### <span id = "oad-2022"> 2022 </span>
 - <span id = "2209">[SCOAD]</span> [**SCOAD: Single-frame Click Supervision for Online Action Detection**](https://openaccess.thecvf.com/content/ACCV2022/papers/Ye_SCOAD_Single-frame_Click_Supervision_for_Online_Action_Detection_ACCV_2022_paper.pdf) - Na Ye et al, `ACCV 2022`.[[code]](https://github.com/zstarN70/SCOAD)
