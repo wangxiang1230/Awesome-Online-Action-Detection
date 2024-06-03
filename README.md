@@ -4,11 +4,12 @@
 ### <span id = "oad-survey"> Survey </span>
 - <span id = "2200">[Survey-2022]</span> [**Online human action detection and anticipation in videos: A survey**](https://doi.org/10.1016/j.neucom.2022.03.069) - Xuejiao Hu et al, `Neurocomputing 2022`.
 
-### <span id = "oad-2023"> 2024 </span>
-- <span id = "2301">[JOADAA]</span> [**JOADAA: joint online action detection and action anticipation**](https://openaccess.thecvf.com/content/WACV2024/papers/Guermal_JOADAA_Joint_Online_Action_Detection_and_Action_Anticipation_WACV_2024_paper.pdf) - Mohammed Guermal et al, `WACV 2024`.
+### <span id = "oad-2024"> 2024 </span>
+- <span id = "2401">[MALT]</span> [**MALT: Multi-scale Action Learning Transformer for Online Action Detection**](https://arxiv.org/pdf/2405.20892) - Zhipeng Yang et al, `ArXiv 2024`.
+- <span id = "2401">[JOADAA]</span> [**JOADAA: joint online action detection and action anticipation**](https://openaccess.thecvf.com/content/WACV2024/papers/Guermal_JOADAA_Joint_Online_Action_Detection_and_Action_Anticipation_WACV_2024_paper.pdf) - Mohammed Guermal et al, `WACV 2024`.
 
 ### <span id = "oad-2023"> 2023 </span>
-- <span id = "2305">[MiniROAD]</span> [**MiniROAD: Minimal RNN Framework for Online Action Detection**](https://openaccess.thecvf.com/content/ICCV2023/papers/An_MiniROAD_Minimal_RNN_Framework_for_Online_Action_Detection_ICCV_2023_paper.pdf) - Joungbin An et al, `ICCV 2023`. [[code]](https://github.com/jbistanbul/MiniROAD)
+- <span id = "2306">[MiniROAD]</span> [**MiniROAD: Minimal RNN Framework for Online Action Detection**](https://openaccess.thecvf.com/content/ICCV2023/papers/An_MiniROAD_Minimal_RNN_Framework_for_Online_Action_Detection_ICCV_2023_paper.pdf) - Joungbin An et al, `ICCV 2023`. [[code]](https://github.com/jbistanbul/MiniROAD)
 - <span id = "2305">[E2E-LOAD]</span> [**E2E-LOAD: End-to-End Long-form Online Action Detection**](https://arxiv.org/abs/2306.07703) - Shuqiang Cao et al, `ICCV 2023`. [[code]](https://github.com/sqiangcao99/E2E-LOAD)
 - <span id = "2304">[MAT]</span> [**Memory-and-Anticipation Transformer for Online Action Understanding**](https://arxiv.org/abs/2308.07893) - Jiahao Wang et al, `ICCV 2023`. [[code]](https://github.com/Echo0125/Memory-and-Anticipation-Transformer)
 - <span id = "2303">[Contrastive-based]</span> [**Online Action Detection with Learning Future Representations by Contrastive Learning**](https://ieeexplore.ieee.org/abstract/document/10220027) - Haitao Leng et al, `ICME 2023`.
