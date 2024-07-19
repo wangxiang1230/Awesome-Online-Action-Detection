@@ -5,6 +5,7 @@
 - <span id = "2200">[Survey-2022]</span> [**Online human action detection and anticipation in videos: A survey**](https://doi.org/10.1016/j.neucom.2022.03.069) - Xuejiao Hu et al, `Neurocomputing 2022`.
 
 ### <span id = "oad-2024"> 2024 </span>
+- <span id = "2404">[ActionSwitch]</span> [**ActionSwitch: Class-agnostic Detection of Simultaneous Actions in Streaming Videos**](https://arxiv.org/pdf/2407.12987) - Hyolim Kang et al, `ECCV 2024`.
 - <span id = "2403">[OA-M]</span> [**Object Aware Egocentric Online Action Detection**](https://arxiv.org/pdf/2406.01079) - Joungbin An et al, `ArXiv 2024`.
 - <span id = "2402">[MALT]</span> [**MALT: Multi-scale Action Learning Transformer for Online Action Detection**](https://arxiv.org/pdf/2405.20892) - Zhipeng Yang et al, `ArXiv 2024`.
 - <span id = "2401">[JOADAA]</span> [**JOADAA: joint online action detection and action anticipation**](https://openaccess.thecvf.com/content/WACV2024/papers/Guermal_JOADAA_Joint_Online_Action_Detection_and_Action_Anticipation_WACV_2024_paper.pdf) - Mohammed Guermal et al, `WACV 2024`.
