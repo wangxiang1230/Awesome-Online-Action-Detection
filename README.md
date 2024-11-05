@@ -5,6 +5,7 @@
 - <span id = "2200">[Survey-2022]</span> [**Online human action detection and anticipation in videos: A survey**](https://doi.org/10.1016/j.neucom.2022.03.069) - Xuejiao Hu et al, `Neurocomputing 2022`.
 
 ### <span id = "oad-2024"> 2024 </span>
+- <span id = "2406">[OnlineTAS]</span> [**OnlineTAS: An Online Baseline for Temporal Action Segmentation**](https://arxiv.org/pdf/2411.01122) - Qing Zhong et al, `NeurIPS 2024`. 
 - <span id = "2405">[HAT]</span> [**HAT: History-Augmented Anchor Transformer for Online Temporal Action Localization**](https://arxiv.org/pdf/2408.06437) - Sakib Reza et al, `ECCV 2024`. [[code]](https://github.com/sakibreza/ECCV24-HAT)
 - <span id = "2404">[ActionSwitch]</span> [**ActionSwitch: Class-agnostic Detection of Simultaneous Actions in Streaming Videos**](https://arxiv.org/pdf/2407.12987) - Hyolim Kang et al, `ECCV 2024`.
 - <span id = "2403">[OA-M]</span> [**Object Aware Egocentric Online Action Detection**](https://arxiv.org/pdf/2406.01079) - Joungbin An et al, `ArXiv 2024`.
