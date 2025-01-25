@@ -4,6 +4,9 @@
 ### <span id = "oad-survey"> Survey </span>
 - <span id = "2200">[Survey-2022]</span> [**Online human action detection and anticipation in videos: A survey**](https://doi.org/10.1016/j.neucom.2022.03.069) - Xuejiao Hu et al, `Neurocomputing 2022`.
 
+### <span id = "oad-2025"> 2025 </span>
+- <span id = "2501">[TOAD]</span> [**Text-driven Online Action Detection**](https://arxiv.org/pdf/2501.13518) - Manuel Benavent-Lledo et al, `ArXiv 2025`. 
+
 ### <span id = "oad-2024"> 2024 </span>
 - <span id = "2407">[OV-OAD]</span> [**Does Video-Text Pretraining Help Open-Vocabulary Online Action Detection?**](https://openreview.net/pdf?id=PWzB2V2b6R) - Qingsong Zhao et al, `NeurIPS 2024`. [[code]](https://github.com/ZQSIAT/OV-OAD)
 - <span id = "2406">[OnlineTAS]</span> [**OnlineTAS: An Online Baseline for Temporal Action Segmentation**](https://arxiv.org/pdf/2411.01122) - Qing Zhong et al, `NeurIPS 2024`. 
